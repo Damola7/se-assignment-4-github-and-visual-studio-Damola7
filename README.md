@@ -120,7 +120,7 @@ Combining GitHub and Visual Studio supports collaborative development by integra
 For example, a team working on a web application can use Visual Studio to write and debug code, and GitHub to manage versions, review code, and automate testing and deployment. This setup improves workflow efficiency, coordination, and code quality.
 
 SOURCES:
-doc.github.com, chatgpt, gist.github.com, git-scm.com/book/en/v2, code.visualstudio.com/docs, learn.microsoft.com/en-us/visualstudio/git/github?view=vs-2019, visualstudio.microsoft.com/services/github/
+doc.github.com, google.com, gist.github.com, git-scm.com/book/en/v2, code.visualstudio.com/docs, learn.microsoft.com/en-us/visualstudio/git/github?view=vs-2019, visualstudio.microsoft.com/services/github/
 
 
 Submission Guidelines:
